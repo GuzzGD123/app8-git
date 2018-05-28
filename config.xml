@@ -19,7 +19,7 @@ Gustavo Jesús Calderón Ximil
  
   <!-- Perzonaliza la aplicaci�n y plataforma -->
  <preference name="orientation"   value="default"/>
-<preference name="orientation" value="portrait"/>
+<!--<preference name="orientation" value="portrait"/>
     <preference name="orientation" value="landscape"/> -->
 <preference name="target-device"  value="universal"/>
 <preference name="fullscreen"  value="true"/>
